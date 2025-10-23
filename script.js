@@ -18,7 +18,7 @@ const productos = [
      imagen: 'img3.jpg'
     }, 
     {
-    mombre: 'Camisa local Real Madrid 25/26',
+    nombre: 'Camisa local Real Madrid 25/26',
     descripcion: 'Camisa local del Real Madrid temporada 2025/2026',
     precio: 1700,
     imagen: 'img4.jpg'
